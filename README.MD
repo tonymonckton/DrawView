@@ -9,7 +9,7 @@ An alert style view, which pops up from the bottom.
 
 ### Images
 
-![iphone](http://www.tonymonckton.co.uk/github/draw.gif)
+![iphone](draw.gif)
 
 
 ### Installation
